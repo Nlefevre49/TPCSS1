@@ -4,7 +4,7 @@ head{
     background-color: rgb(21, 0, 214);
 }
 h1{
-    text-align: center;
+    text-align:center;
     padding: 5px;
     background-color: rgb(21, 0, 214); 
     height:80px;
@@ -21,4 +21,8 @@ footer {
     padding: 5px;
     background-color: #30e602;
     color: #000;
+  }
+  h4{
+    text-align: left;
+    color:pink
   }
