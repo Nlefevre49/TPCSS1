@@ -1,0 +1,25 @@
+head{
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(21, 0, 214);
+}
+h1{
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(21, 0, 214); 
+    height:80px;
+}
+h2{
+    text-align: center;
+    height: 750px;
+    background-color: rgb(233, 218, 7);
+    padding: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: #30e602;
+    color: #000;
+  }
+  
